@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: 6a1138952621942429d8fd762f0a8deb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Pokemon Ruby Sapphire - Objects_0
+    21300002: Game Boy Advance - Pokemon Ruby Sapphire - Objects_1
+    21300004: Game Boy Advance - Pokemon Ruby Sapphire - Objects_2
+    21300006: Game Boy Advance - Pokemon Ruby Sapphire - Objects_3
+    21300008: Game Boy Advance - Pokemon Ruby Sapphire - Objects_4
+    21300010: Game Boy Advance - Pokemon Ruby Sapphire - Objects_5
+    21300012: Game Boy Advance - Pokemon Ruby Sapphire - Objects_6
+    21300014: Game Boy Advance - Pokemon Ruby Sapphire - Objects_7
+    21300016: Game Boy Advance - Pokemon Ruby Sapphire - Objects_8
+    21300018: Game Boy Advance - Pokemon Ruby Sapphire - Objects_9
+    21300020: Game Boy Advance - Pokemon Ruby Sapphire - Objects_10
+    21300022: Game Boy Advance - Pokemon Ruby Sapphire - Objects_11
+    21300024: Game Boy Advance - Pokemon Ruby Sapphire - Objects_12
+    21300026: Game Boy Advance - Pokemon Ruby Sapphire - Objects_13
+    21300028: Game Boy Advance - Pokemon Ruby Sapphire - Objects_14
+    21300030: Game Boy Advance - Pokemon Ruby Sapphire - Objects_15
+    21300032: Game Boy Advance - Pokemon Ruby Sapphire - Objects_16
+    21300034: Game Boy Advance - Pokemon Ruby Sapphire - Objects_17
+    21300036: Game Boy Advance - Pokemon Ruby Sapphire - Objects_18
+    21300038: Game Boy Advance - Pokemon Ruby Sapphire - Objects_19
+    21300040: Game Boy Advance - Pokemon Ruby Sapphire - Objects_20
+    21300042: Game Boy Advance - Pokemon Ruby Sapphire - Objects_21
+    21300044: Game Boy Advance - Pokemon Ruby Sapphire - Objects_22
+    21300046: Game Boy Advance - Pokemon Ruby Sapphire - Objects_23
+    21300048: Game Boy Advance - Pokemon Ruby Sapphire - Objects_24
+    21300050: Game Boy Advance - Pokemon Ruby Sapphire - Objects_25
+    21300052: Game Boy Advance - Pokemon Ruby Sapphire - Objects_26
+    21300054: Game Boy Advance - Pokemon Ruby Sapphire - Objects_27
+    21300056: Game Boy Advance - Pokemon Ruby Sapphire - Objects_28
+    21300058: Game Boy Advance - Pokemon Ruby Sapphire - Objects_29
+    21300060: Game Boy Advance - Pokemon Ruby Sapphire - Objects_30
+    21300062: Game Boy Advance - Pokemon Ruby Sapphire - Objects_31
+    21300064: Game Boy Advance - Pokemon Ruby Sapphire - Objects_32
+    21300066: Game Boy Advance - Pokemon Ruby Sapphire - Objects_33
+    21300068: Game Boy Advance - Pokemon Ruby Sapphire - Objects_34
+    21300070: Game Boy Advance - Pokemon Ruby Sapphire - Objects_35
+    21300072: Game Boy Advance - Pokemon Ruby Sapphire - Objects_36
+    21300074: Game Boy Advance - Pokemon Ruby Sapphire - Objects_37
+    21300076: Game Boy Advance - Pokemon Ruby Sapphire - Objects_38
+    21300078: Game Boy Advance - Pokemon Ruby Sapphire - Objects_39
+    21300080: Game Boy Advance - Pokemon Ruby Sapphire - Objects_40
+    21300082: Game Boy Advance - Pokemon Ruby Sapphire - Objects_41
+    21300084: Game Boy Advance - Pokemon Ruby Sapphire - Objects_42
+    21300086: Game Boy Advance - Pokemon Ruby Sapphire - Objects_43
+    21300088: Game Boy Advance - Pokemon Ruby Sapphire - Objects_44
+    21300090: Game Boy Advance - Pokemon Ruby Sapphire - Objects_45
+    21300092: Game Boy Advance - Pokemon Ruby Sapphire - Objects_46
+    21300094: Game Boy Advance - Pokemon Ruby Sapphire - Objects_47
+    21300096: Game Boy Advance - Pokemon Ruby Sapphire - Objects_48
+    21300098: Game Boy Advance - Pokemon Ruby Sapphire - Objects_49
+    21300100: Game Boy Advance - Pokemon Ruby Sapphire - Objects_50
+    21300102: Game Boy Advance - Pokemon Ruby Sapphire - Objects_51
+    21300104: Game Boy Advance - Pokemon Ruby Sapphire - Objects_52
+    21300106: Game Boy Advance - Pokemon Ruby Sapphire - Objects_53
+    21300108: Game Boy Advance - Pokemon Ruby Sapphire - Objects_54
+    21300110: Game Boy Advance - Pokemon Ruby Sapphire - Objects_55
+    21300112: Game Boy Advance - Pokemon Ruby Sapphire - Objects_56
+    21300114: Game Boy Advance - Pokemon Ruby Sapphire - Objects_57
+    21300116: Game Boy Advance - Pokemon Ruby Sapphire - Objects_58
+    21300118: Game Boy Advance - Pokemon Ruby Sapphire - Objects_59
+    21300120: Game Boy Advance - Pokemon Ruby Sapphire - Objects_60
+    21300122: Game Boy Advance - Pokemon Ruby Sapphire - Objects_61
+    21300124: Game Boy Advance - Pokemon Ruby Sapphire - Objects_62
+    21300126: Game Boy Advance - Pokemon Ruby Sapphire - Objects_63
+    21300128: Game Boy Advance - Pokemon Ruby Sapphire - Objects_64
+    21300130: Game Boy Advance - Pokemon Ruby Sapphire - Objects_65
+    21300132: Game Boy Advance - Pokemon Ruby Sapphire - Objects_66
+    21300134: Game Boy Advance - Pokemon Ruby Sapphire - Objects_67
+    21300136: Game Boy Advance - Pokemon Ruby Sapphire - Objects_68
+    21300138: Game Boy Advance - Pokemon Ruby Sapphire - Objects_69
+    21300140: Game Boy Advance - Pokemon Ruby Sapphire - Objects_70
+    21300142: Game Boy Advance - Pokemon Ruby Sapphire - Objects_71
+    21300144: Game Boy Advance - Pokemon Ruby Sapphire - Objects_72
+    21300146: Game Boy Advance - Pokemon Ruby Sapphire - Objects_73
+    21300148: Game Boy Advance - Pokemon Ruby Sapphire - Objects_74
+    21300150: Game Boy Advance - Pokemon Ruby Sapphire - Objects_75
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 220
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80434146d0dfb64395f31c8f5f5ebcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 452
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a1ae094120e94c86eb7c57200f75e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 406
+        width: 222
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cd8a44a946f8844b211b740ae14126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 452
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c53e1bc1021843b9c8afd5df7e5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ac293e7f6f7c43a51261f73107a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 354
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c964bed74f0a674ea26d65414567676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 353
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b943f0535641418fec3934ddc1898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 355
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5d3351fce4a4149a905d4e4a3b7052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 356
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a20cfc15f7574a9949491b5bb3491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 309
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf1a925902ca549bd39a6f423c9e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 361
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14127d68e70f4844bca80bef02b595b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 323
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38729b7d8c9c24bbc05d4ce115a04c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 302
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3926520da24f8444b96430e674277bdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 314
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3133eb74f1924495397edd1b68811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 320
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c714e54a3523e42a9f423c288a5f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 328
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a464b7e7c641249983c934e0640b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 328
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f83df291b6e140bb177676ebe46f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee209180d9b18b848bfa0d01c4f918c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839518ac4d3ee94ea250c14bd5dd014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87fcecc73dbbbf4daa39c1edaf65060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 292
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275080496fd9fb41a8078b2bee4ad4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 291
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739ffb7446ec8949a1add046199c77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 296
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58e03f8ee3910e418b606418b101df3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 294
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64357464c112e24897cf4d408f5b62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 259
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db91f94caa3c84cb2d8dee28bddadd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 270
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27b423c996c554d8ba4b558f1e74af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37822e62ef159934b96c6552dc78c821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 253
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d91100873803346ab2ca79f2d565d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 255
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f5221a203afb1449882d48d6bacdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257d5ba56e1fea4a9026b226674dfdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 269
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47437850a253d6d438497c1383e68b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 265
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d797a9bed767c9a4faa6469462c214be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 264
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b918de011b7e914196bcbef2103e54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 224
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278519879ee86e14f824ce512e264a91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 235
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e744f7fe44a06418894acb49dfcc9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e55379c74691643aeb097d105640ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 200
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09afd522ef5b9a4eb4e4a72618f0d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d74c3f3e2b6f540836b6a849de2912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 226
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68edf6873817414386631ba9c688d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 219
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81ac52dbade7848a4f9ee982bed897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 231
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc05fb0870926b4794cea42b741fdc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2340f6034a75d4d8cda99b33a2f214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 233
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e4325251083b40a06219e8cafdca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 227
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dfecc206cc764f9bcb3e65d0e9265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 227
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5450a7bc53a3f14e8011cceade9e8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c339f5e36da4be48b76bfd018f8644e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471f0dbb1e60d048a112658422d5456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456142cd8c0b87b4f9c17541781e7a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22fa12d2259d44e9d86d0aef9f46eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 191
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f2160872e2e044a3e95160289db6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 188
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7ffff9e321ab459cf0ea4679e38cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef35d9ca3c1e404993d0137425ef20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 140
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1245bec9331b94681e7982b269465b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 140
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fc39ea1ca0bc408523d348c21ac02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fe6a77c835244fb9185b4211fa930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 167
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239223db9c956ed47b937327f85de826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 152
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343b7720da54bf4190792fd780a9612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 154
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30c5c7dad8b5b24b94537b6b1e525f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 153
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1636b560ff872e4c86e3f02ee8ee0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 148
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a032c3f97733e4f9da847de991e4d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55c8d643e404c4692dc4de1ee64c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6748146a3727314d8906a7ede7a6979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 150
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9cc784e448fa4f81ee86c023f6dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542ab92b9345bc49a0f30e248b11468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 115
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8abc9d8d082177418a2af02069af463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 106
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd1e7b7d2f84042b96b7479fa56dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204fb5d2226f98645ba7ef3e941360ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 117
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8f80ccf53cab4a80a66fa88563ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf3d78446ddd243b6e0b3a3733927f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8163b1428cd0a8439eab2dca81a4d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894211cb0d8cb16429ddbbdf1ae88425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b9c9b5d5fbd64ea4f61b6fb94f369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e89ebc57e6ac46b78e55be7406ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdee84b118dd9a4f8b01a3855eaff19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d2c8f2409b4e48ab91c0a2e50a819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Objects_75
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 122
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54763574ff23e22429d8f0fa86a85ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0e8ab7cc801ca214a8b5cf81d18b8171
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
